@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kmyan7/touch-typescript/issues"
   },
-  "homepage": "https://github.com/kmyan7/touch-typescript#readme"
+  "homepage": "https://github.com/kmyan7/touch-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
